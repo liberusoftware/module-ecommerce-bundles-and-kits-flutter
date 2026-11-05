@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-bundles-and-kits-flutter",
+  "capabilityKey": "planned:ecommerce:bundles-and-kits",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_bundles_and_kits_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/bundles-and-kits.md",
+  "presentationPlan": "projects/ecommerce/flutter/bundles-and-kits.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
